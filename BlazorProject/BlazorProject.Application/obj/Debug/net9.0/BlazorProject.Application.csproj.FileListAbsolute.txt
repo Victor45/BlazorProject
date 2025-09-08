@@ -1,0 +1,17 @@
+D:\Practicaa\BlazorProject\BlazorProject.Application\bin\Debug\net9.0\BlazorProject.Application.deps.json
+D:\Practicaa\BlazorProject\BlazorProject.Application\bin\Debug\net9.0\BlazorProject.Application.dll
+D:\Practicaa\BlazorProject\BlazorProject.Application\bin\Debug\net9.0\BlazorProject.Application.pdb
+D:\Practicaa\BlazorProject\BlazorProject.Application\bin\Debug\net9.0\BlazorProject.Domain.dll
+D:\Practicaa\BlazorProject\BlazorProject.Application\bin\Debug\net9.0\BlazorProject.Infrastructure.dll
+D:\Practicaa\BlazorProject\BlazorProject.Application\bin\Debug\net9.0\BlazorProject.Infrastructure.pdb
+D:\Practicaa\BlazorProject\BlazorProject.Application\bin\Debug\net9.0\BlazorProject.Domain.pdb
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProject.Application.csproj.AssemblyReference.cache
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProject.Application.AssemblyInfoInputs.cache
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProject.Application.AssemblyInfo.cs
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProject.Application.csproj.CoreCompileInputs.cache
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorPr.DE27C082.Up2Date
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProject.Application.dll
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\refint\BlazorProject.Application.dll
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProject.Application.pdb
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\ref\BlazorProject.Application.dll

@@ -1,0 +1,26 @@
+version: '3.9'
+services:
+  blazorproject:
+    image: ${DOCKER_REGISTRY-}blazorproject
+    build:
+      context: .
+      dockerfile: BlazorProject/BlazorProject/Dockerfile
+    ports:
+      - "5000:8080"   # expui aplica?ia pe localhost:5000
+    depends_on:
+      - sqlserver
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=sqlserver,1433;Database=BlazorDb;User Id=sa;Password=Your_password123;
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      SA_PASSWORD: "Your_password123"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlvolume:/var/opt/mssql
+
+volumes:
+  sqlvolume:

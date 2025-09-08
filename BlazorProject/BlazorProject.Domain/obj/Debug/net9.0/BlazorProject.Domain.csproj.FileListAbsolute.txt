@@ -1,0 +1,12 @@
+D:\Practicaa\BlazorProject\BlazorProject.Domain\bin\Debug\net9.0\BlazorProject.Domain.deps.json
+D:\Practicaa\BlazorProject\BlazorProject.Domain\bin\Debug\net9.0\BlazorProject.Domain.dll
+D:\Practicaa\BlazorProject\BlazorProject.Domain\bin\Debug\net9.0\BlazorProject.Domain.pdb
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.AssemblyInfoInputs.cache
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.AssemblyInfo.cs
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.csproj.CoreCompileInputs.cache
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.dll
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\refint\BlazorProject.Domain.dll
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.pdb
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\ref\BlazorProject.Domain.dll
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Practicaa\BlazorProject\BlazorProject.Shared\bin\Debug\net9.0\BlazorProject.Shared.deps.json
+D:\Practicaa\BlazorProject\BlazorProject.Shared\bin\Debug\net9.0\BlazorProject.Shared.dll
+D:\Practicaa\BlazorProject\BlazorProject.Shared\bin\Debug\net9.0\BlazorProject.Shared.pdb
+D:\Practicaa\BlazorProject\BlazorProject.Shared\obj\Debug\net9.0\BlazorProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practicaa\BlazorProject\BlazorProject.Shared\obj\Debug\net9.0\BlazorProject.Shared.AssemblyInfoInputs.cache
+D:\Practicaa\BlazorProject\BlazorProject.Shared\obj\Debug\net9.0\BlazorProject.Shared.AssemblyInfo.cs
+D:\Practicaa\BlazorProject\BlazorProject.Shared\obj\Debug\net9.0\BlazorProject.Shared.csproj.CoreCompileInputs.cache
+D:\Practicaa\BlazorProject\BlazorProject.Shared\obj\Debug\net9.0\BlazorProject.Shared.dll
+D:\Practicaa\BlazorProject\BlazorProject.Shared\obj\Debug\net9.0\refint\BlazorProject.Shared.dll
+D:\Practicaa\BlazorProject\BlazorProject.Shared\obj\Debug\net9.0\BlazorProject.Shared.pdb
+D:\Practicaa\BlazorProject\BlazorProject.Shared\obj\Debug\net9.0\ref\BlazorProject.Shared.dll
+D:\Practicaa\BlazorProject\BlazorProject.Shared\obj\Debug\net9.0\BlazorProject.Shared.csproj.AssemblyReference.cache

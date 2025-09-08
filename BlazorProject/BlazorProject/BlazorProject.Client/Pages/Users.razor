@@ -1,0 +1,220 @@
+﻿@page "/users"
+@using BlazorProject.Shared.DTOs
+@inject HttpClient Http
+@rendermode InteractiveWebAssembly
+
+<h3>Users</h3>
+
+<button class="btn btn-primary mb-3" @onclick="ShowAddForm">Add User</button>
+
+@if (users == null)
+{
+     <p>Loading...</p>
+}
+else
+{
+     <table class="table">
+          <thead>
+               <tr>
+                    <th>Id</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Age</th>
+                    <th>Actions</th>
+               </tr>
+          </thead>
+          <tbody>
+               @foreach (var user in users)
+               {
+                    <tr>
+                         <td>@user.Id</td>
+                         <td>@user.FirstName</td>
+                         <td>@user.LastName</td>
+                         <td>@user.Age</td>
+                         <td>
+                              <button class="btn btn-warning btn-sm" @onclick="() => EditUser(user)">Edit</button>
+                              <button class="btn btn-danger btn-sm" @onclick="() => ConfirmDelete(user.Id)">Delete</button>
+                         </td>
+                    </tr>
+               }
+          </tbody>
+     </table>
+}
+
+@if (showAddForm)
+{
+     <div class="card p-3 mb-3">
+          <h5>Add New User</h5>
+          <EditForm Model="newUser" OnValidSubmit="AddUser">
+               <DataAnnotationsValidator />
+
+               <div class="mb-2">
+                    <InputText class="form-control" @bind-Value="newUser.FirstName" placeholder="First Name" />
+                    <ValidationMessage For="@(() => newUser.FirstName)" />
+               </div>
+               <div class="mb-2">
+                    <InputText class="form-control" @bind-Value="newUser.LastName" placeholder="Last Name" />
+                    <ValidationMessage For="@(() => newUser.LastName)" />
+               </div>
+               <div class="mb-2">
+                    <InputNumber class="form-control" @bind-Value="newUser.Age" placeholder="Age" />
+                    <ValidationMessage For="@(() => newUser.Age)" />
+               </div>
+
+               <button type="submit" class="btn btn-success btn-sm me-2">Save</button>
+               <button type="button" class="btn btn-secondary btn-sm" @onclick="CancelAdd">Cancel</button>
+          </EditForm>
+     </div>
+}
+
+@if (showEditForm)
+{
+     <div class="card p-3 mb-3">
+          <h5>Edit User</h5>
+          <EditForm Model="currentUser" OnValidSubmit="UpdateUser">
+               <DataAnnotationsValidator />
+
+               <div class="mb-2">
+                    <InputText class="form-control" @bind-Value="currentUser.FirstName" placeholder="First Name" />
+                    <ValidationMessage For="@(() => currentUser.FirstName)" />
+               </div>
+               <div class="mb-2">
+                    <InputText class="form-control" @bind-Value="currentUser.LastName" placeholder="Last Name" />
+                    <ValidationMessage For="@(() => currentUser.LastName)" />
+               </div>
+               <div class="mb-2">
+                    <InputNumber class="form-control" @bind-Value="currentUser.Age" placeholder="Age" />
+                    <ValidationMessage For="@(() => currentUser.Age)" />
+               </div>
+
+               <button type="submit" class="btn btn-success btn-sm me-2">Save Changes</button>
+               <button type="button" class="btn btn-secondary btn-sm" @onclick="CancelEdit">Cancel</button>
+          </EditForm>
+     </div>
+}
+
+@if (showDeleteConfirm)
+{
+     <div class="alert alert-warning">
+          <p>Are you sure you want to delete user @deleteUserId?</p>
+          <button class="btn btn-danger btn-sm" @onclick="DeleteUserConfirmed">Yes</button>
+          <button class="btn btn-secondary btn-sm" @onclick="CancelDelete">No</button>
+     </div>
+}
+
+@code {
+     private List<UserDto> users;
+     private UserDto currentUser = new();
+     private UserDto newUser = new();
+     private bool showAddForm = false;
+     private bool showEditForm = false;
+     private bool showDeleteConfirm = false;
+     private int deleteUserId;
+
+     protected override async Task OnInitializedAsync()
+     {
+          await LoadUsers();
+     }
+
+     private async Task LoadUsers()
+     {
+          try
+          {
+               users = await Http.GetFromJsonAsync<List<UserDto>>("api/users");
+          }
+          catch (Exception ex)
+          {
+               Console.Error.WriteLine($"Error loading users: {ex.Message}");
+          }
+     }
+
+     private void ShowAddForm()
+     {
+          newUser = new UserDto();
+          showAddForm = true;
+     }
+
+     private void CancelAdd() 
+     {
+          showAddForm = false; 
+     }
+
+     private async Task AddUser()
+     {
+          try
+          {
+               var response = await Http.PostAsJsonAsync("api/users", newUser);
+               if (response.IsSuccessStatusCode)
+               {
+                    showAddForm = false;
+                    await LoadUsers();
+               }
+          }
+          catch (Exception ex)
+          {
+               Console.Error.WriteLine($"Error adding user: {ex.Message}");
+          }
+     }
+
+     private void EditUser(UserDto user)
+     {
+          currentUser = new UserDto
+          {
+               Id = user.Id,
+               FirstName = user.FirstName,
+               LastName = user.LastName,
+               Age = user.Age
+          };
+          showEditForm = true;
+     }
+
+     private void CancelEdit()
+     { 
+          showEditForm = false; 
+     }
+
+     private async Task UpdateUser()
+     {
+          try
+          {
+               var response = await Http.PutAsJsonAsync($"api/users/{currentUser.Id}", currentUser);
+               if (response.IsSuccessStatusCode)
+               {
+                    showEditForm = false;
+                    await LoadUsers();
+               }
+          }
+          catch (Exception ex)
+          {
+               Console.Error.WriteLine($"Error updating user: {ex.Message}");
+          }
+     }
+
+     private void ConfirmDelete(int id)
+     {
+          deleteUserId = id;
+          showDeleteConfirm = true;
+     }
+
+     private void CancelDelete()
+     {
+          showDeleteConfirm = false;
+     }
+
+     private async Task DeleteUserConfirmed()
+     {
+          try
+          {
+               var response = await Http.DeleteAsync($"api/users/{deleteUserId}");
+               if (response.IsSuccessStatusCode)
+               {
+                    showDeleteConfirm = false;
+                    await LoadUsers();
+               }
+          }
+          catch (Exception ex)
+          {
+               Console.Error.WriteLine($"Error deleting user: {ex.Message}");
+          }
+     }
+}

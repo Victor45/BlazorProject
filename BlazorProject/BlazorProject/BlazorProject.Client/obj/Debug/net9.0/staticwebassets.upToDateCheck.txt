@@ -1,0 +1,4 @@
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\wwwroot\appsettings.Development.json
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\wwwroot\appsettings.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
