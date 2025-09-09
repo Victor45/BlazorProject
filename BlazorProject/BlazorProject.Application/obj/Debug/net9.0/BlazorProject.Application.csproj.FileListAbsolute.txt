@@ -15,3 +15,4 @@ D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProj
 D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\refint\BlazorProject.Application.dll
 D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProject.Application.pdb
 D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\ref\BlazorProject.Application.dll
+D:\Practicaa\BlazorProject\BlazorProject.Application\obj\Debug\net9.0\BlazorProject.Application.sourcelink.json

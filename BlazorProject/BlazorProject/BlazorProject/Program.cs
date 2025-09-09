@@ -3,6 +3,7 @@ using BlazorProject.Client.Pages;
 using BlazorProject.Components;
 using BlazorProject.Components.Account;
 using BlazorProject.Data;
+using BlazorProject.Domain.Entities;
 using BlazorProject.Infrastructure;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;

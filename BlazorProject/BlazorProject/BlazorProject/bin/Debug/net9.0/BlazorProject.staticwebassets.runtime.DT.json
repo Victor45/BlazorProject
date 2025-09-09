@@ -6,7 +6,7 @@
     "/src/BlazorProject/BlazorProject.Client/obj/Debug/net9.0/compressed/",
     "/src/BlazorProject/BlazorProject/obj/Debug/net9.0/scopedcss/bundle/",
     "/src/BlazorProject/BlazorProject.Client/bin/Debug/net9.0/wwwroot/",
-    "/.nuget/packages/microsoft.aspnetcore.components.webassembly.authentication/9.0.8/staticwebassets/"
+    "/.nuget/packages/microsoft.aspnetcore.components.webassembly.authentication/9.0.9/staticwebassets/"
   ],
   "Root": {
     "Children": {
@@ -96,7 +96,7 @@
             "Children": null,
             "Asset": {
               "ContentRootIndex": 3,
-              "SubPath": "g19ih23nm7-8rsqqrrio2.gz"
+              "SubPath": "g19ih23nm7-6pd8fr3zb6.gz"
             },
             "Patterns": null
           },
@@ -116,35 +116,67 @@
             },
             "Patterns": null
           },
-          "BlazorProject.Client.68q7r7ff14.pdb": {
+          "BlazorProject.Client.s2mcw6c1sg.wasm": {
             "Children": null,
             "Asset": {
               "ContentRootIndex": 5,
-              "SubPath": "_framework/BlazorProject.Client.68q7r7ff14.pdb"
+              "SubPath": "_framework/BlazorProject.Client.s2mcw6c1sg.wasm"
             },
             "Patterns": null
           },
-          "BlazorProject.Client.68q7r7ff14.pdb.gz": {
+          "BlazorProject.Client.s2mcw6c1sg.wasm.gz": {
             "Children": null,
             "Asset": {
               "ContentRootIndex": 3,
-              "SubPath": "h5gfqgvkc1-68q7r7ff14.gz"
+              "SubPath": "fmb5b6b5fx-s2mcw6c1sg.gz"
             },
             "Patterns": null
           },
-          "BlazorProject.Client.8y60tsx0bt.wasm": {
+          "BlazorProject.Client.via2p0rbsq.pdb": {
             "Children": null,
             "Asset": {
               "ContentRootIndex": 5,
-              "SubPath": "_framework/BlazorProject.Client.8y60tsx0bt.wasm"
+              "SubPath": "_framework/BlazorProject.Client.via2p0rbsq.pdb"
             },
             "Patterns": null
           },
-          "BlazorProject.Client.8y60tsx0bt.wasm.gz": {
+          "BlazorProject.Client.via2p0rbsq.pdb.gz": {
             "Children": null,
             "Asset": {
               "ContentRootIndex": 3,
-              "SubPath": "fmb5b6b5fx-8y60tsx0bt.gz"
+              "SubPath": "h5gfqgvkc1-via2p0rbsq.gz"
+            },
+            "Patterns": null
+          },
+          "BlazorProject.Shared.imz3ep8zv0.pdb": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/BlazorProject.Shared.imz3ep8zv0.pdb"
+            },
+            "Patterns": null
+          },
+          "BlazorProject.Shared.imz3ep8zv0.pdb.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "gb2clwrxyu-imz3ep8zv0.gz"
+            },
+            "Patterns": null
+          },
+          "BlazorProject.Shared.iqowrfuqts.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/BlazorProject.Shared.iqowrfuqts.wasm"
+            },
+            "Patterns": null
+          },
+          "BlazorProject.Shared.iqowrfuqts.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "4uirgloanx-iqowrfuqts.gz"
             },
             "Patterns": null
           },
@@ -289,6 +321,54 @@
             "Asset": {
               "ContentRootIndex": 3,
               "SubPath": "ozhy8sm3y2-lfu7j35m59.gz"
+            },
+            "Patterns": null
+          },
+          "MediatR.Contracts.f5sa8x1lz4.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/MediatR.Contracts.f5sa8x1lz4.wasm"
+            },
+            "Patterns": null
+          },
+          "MediatR.Contracts.f5sa8x1lz4.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "s0wl0ycys8-f5sa8x1lz4.gz"
+            },
+            "Patterns": null
+          },
+          "MediatR.Extensions.Microsoft.DependencyInjection.nq35qxh5mp.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/MediatR.Extensions.Microsoft.DependencyInjection.nq35qxh5mp.wasm"
+            },
+            "Patterns": null
+          },
+          "MediatR.Extensions.Microsoft.DependencyInjection.nq35qxh5mp.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "qrv09ygg7w-nq35qxh5mp.gz"
+            },
+            "Patterns": null
+          },
+          "MediatR.z98cw0jnwz.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/MediatR.z98cw0jnwz.wasm"
+            },
+            "Patterns": null
+          },
+          "MediatR.z98cw0jnwz.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "3gs8h6ix1s-z98cw0jnwz.gz"
             },
             "Patterns": null
           },
@@ -548,6 +628,38 @@
             },
             "Patterns": null
           },
+          "Microsoft.Extensions.Diagnostics.Abstractions.t1byqmcp0o.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/Microsoft.Extensions.Diagnostics.Abstractions.t1byqmcp0o.wasm"
+            },
+            "Patterns": null
+          },
+          "Microsoft.Extensions.Diagnostics.Abstractions.t1byqmcp0o.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "133cdlsi9k-t1byqmcp0o.gz"
+            },
+            "Patterns": null
+          },
+          "Microsoft.Extensions.Diagnostics.uuf03wrk25.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/Microsoft.Extensions.Diagnostics.uuf03wrk25.wasm"
+            },
+            "Patterns": null
+          },
+          "Microsoft.Extensions.Diagnostics.uuf03wrk25.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "7q7v65cdmy-uuf03wrk25.gz"
+            },
+            "Patterns": null
+          },
           "Microsoft.Extensions.FileProviders.Abstractions.f6m2kkjm8i.wasm": {
             "Children": null,
             "Asset": {
@@ -596,6 +708,22 @@
             },
             "Patterns": null
           },
+          "Microsoft.Extensions.Http.yn7v1z80j3.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/Microsoft.Extensions.Http.yn7v1z80j3.wasm"
+            },
+            "Patterns": null
+          },
+          "Microsoft.Extensions.Http.yn7v1z80j3.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "jo1zwlau34-yn7v1z80j3.gz"
+            },
+            "Patterns": null
+          },
           "Microsoft.Extensions.Logging.9y6pcj4d20.wasm": {
             "Children": null,
             "Asset": {
@@ -628,6 +756,22 @@
             },
             "Patterns": null
           },
+          "Microsoft.Extensions.Options.ConfigurationExtensions.sgjwmthtws.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/Microsoft.Extensions.Options.ConfigurationExtensions.sgjwmthtws.wasm"
+            },
+            "Patterns": null
+          },
+          "Microsoft.Extensions.Options.ConfigurationExtensions.sgjwmthtws.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "mradsdo1v7-sgjwmthtws.gz"
+            },
+            "Patterns": null
+          },
           "Microsoft.Extensions.Options.wf856ft4x9.wasm": {
             "Children": null,
             "Asset": {
@@ -657,6 +801,70 @@
             "Asset": {
               "ContentRootIndex": 3,
               "SubPath": "2bjen7athd-6ymn4wtgeh.gz"
+            },
+            "Patterns": null
+          },
+          "Microsoft.IdentityModel.Abstractions.2fq93bre8p.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/Microsoft.IdentityModel.Abstractions.2fq93bre8p.wasm"
+            },
+            "Patterns": null
+          },
+          "Microsoft.IdentityModel.Abstractions.2fq93bre8p.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "k82bfyb78m-2fq93bre8p.gz"
+            },
+            "Patterns": null
+          },
+          "Microsoft.IdentityModel.JsonWebTokens.rp4ufe1kuz.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/Microsoft.IdentityModel.JsonWebTokens.rp4ufe1kuz.wasm"
+            },
+            "Patterns": null
+          },
+          "Microsoft.IdentityModel.JsonWebTokens.rp4ufe1kuz.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "n8w43tlgxa-rp4ufe1kuz.gz"
+            },
+            "Patterns": null
+          },
+          "Microsoft.IdentityModel.Logging.t1co0z6n24.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/Microsoft.IdentityModel.Logging.t1co0z6n24.wasm"
+            },
+            "Patterns": null
+          },
+          "Microsoft.IdentityModel.Logging.t1co0z6n24.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "spmakpnrj9-t1co0z6n24.gz"
+            },
+            "Patterns": null
+          },
+          "Microsoft.IdentityModel.Tokens.m8tw6bmrjd.wasm": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 5,
+              "SubPath": "_framework/Microsoft.IdentityModel.Tokens.m8tw6bmrjd.wasm"
+            },
+            "Patterns": null
+          },
+          "Microsoft.IdentityModel.Tokens.m8tw6bmrjd.wasm.gz": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 3,
+              "SubPath": "bkmtyc2xnt-m8tw6bmrjd.gz"
             },
             "Patterns": null
           },

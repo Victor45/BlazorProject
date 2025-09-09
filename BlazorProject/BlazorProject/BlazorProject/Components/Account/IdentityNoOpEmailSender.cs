@@ -1,4 +1,5 @@
 using BlazorProject.Data;
+using BlazorProject.Domain.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
 

@@ -264,3 +264,6 @@ D:\Practicaa\BlazorProject\BlazorProject\BlazorProject\bin\Debug\net9.0\Microsof
 D:\Practicaa\BlazorProject\BlazorProject\BlazorProject\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
 D:\Practicaa\BlazorProject\BlazorProject\BlazorProject\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
 D:\Practicaa\BlazorProject\BlazorProject\BlazorProject\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject\bin\Debug\net9.0\System.Text.Json.dll
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject\obj\Debug\net9.0\BlazorProject.sourcelink.json

@@ -15,3 +15,4 @@ D:\Practicaa\BlazorProject\BlazorProject.Infrastructure\obj\Debug\net9.0\ref\Bla
 D:\Practicaa\BlazorProject\BlazorProject.Infrastructure\bin\Debug\net9.0\BlazorProject.Domain.dll
 D:\Practicaa\BlazorProject\BlazorProject.Infrastructure\bin\Debug\net9.0\BlazorProject.Domain.pdb
 D:\Practicaa\BlazorProject\BlazorProject.Infrastructure\obj\Debug\net9.0\BlazorPr.D8834F5E.Up2Date
+D:\Practicaa\BlazorProject\BlazorProject.Infrastructure\obj\Debug\net9.0\BlazorProject.Infrastructure.sourcelink.json

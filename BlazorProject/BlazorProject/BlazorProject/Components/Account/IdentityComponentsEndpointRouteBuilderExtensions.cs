@@ -3,6 +3,7 @@ using System.Text.Json;
 using BlazorProject.Components.Account.Pages;
 using BlazorProject.Components.Account.Pages.Manage;
 using BlazorProject.Data;
+using BlazorProject.Domain.Entities;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Http.Extensions;

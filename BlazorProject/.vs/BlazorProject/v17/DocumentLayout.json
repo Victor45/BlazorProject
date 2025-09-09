@@ -3,16 +3,168 @@
   "WorkspaceRootPath": "D:\\Practicaa\\BlazorProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject.client\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|solutionrelative:blazorproject\\blazorproject.client\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FEB8E0-2ED7-40CF-81BC-D333657D1113}|BlazorProject.Domain\\BlazorProject.Domain.csproj|d:\\practicaa\\blazorproject\\blazorproject.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FEB8E0-2ED7-40CF-81BC-D333657D1113}|BlazorProject.Domain\\BlazorProject.Domain.csproj|solutionrelative:blazorproject.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|d:\\practicaa\\blazorproject\\blazorproject.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|solutionrelative:blazorproject.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|d:\\practicaa\\blazorproject\\blazorproject.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|solutionrelative:blazorproject.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\resendemailconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\resendemailconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\twofactorauthentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\twofactorauthentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\resetauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\resetauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\generaterecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\generaterecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\externallogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\externallogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\enableauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\enableauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\disable2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\disable2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\loginwith2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\loginwith2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\externallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\externallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\confirmemailchange.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\confirmemailchange.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|solutionrelative:blazorproject\\blazorproject.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject.client\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|solutionrelative:blazorproject\\blazorproject.client\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\identitynoopemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\identitynoopemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24FEB8E0-2ED7-40CF-81BC-D333657D1113}|BlazorProject.Domain\\BlazorProject.Domain.csproj|d:\\practicaa\\blazorproject\\blazorproject.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24FEB8E0-2ED7-40CF-81BC-D333657D1113}|BlazorProject.Domain\\BlazorProject.Domain.csproj|solutionrelative:blazorproject.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|d:\\practicaa\\blazorproject\\blazorproject.infrastructure\\blazorproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|solutionrelative:blazorproject.infrastructure\\blazorproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D753E7FC-E75A-41BD-A2EA-33A3EFF700B1}|BlazorProject.Application\\BlazorProject.Application.csproj|d:\\practicaa\\blazorproject\\blazorproject.application\\handlers\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D753E7FC-E75A-41BD-A2EA-33A3EFF700B1}|BlazorProject.Application\\BlazorProject.Application.csproj|solutionrelative:blazorproject.application\\handlers\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|solutionrelative:blazorproject\\blazorproject.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED172F-1EF2-4CB0-A112-11E7B2F6C649}|BlazorProject\\BlazorProject.Client\\BlazorProject.Client.csproj|solutionrelative:blazorproject\\blazorproject.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C687EA9-0C12-4A68-BF5B-59335D71B0B4}|BlazorProject.Shared\\BlazorProject.Shared.csproj|d:\\practicaa\\blazorproject\\blazorproject.shared\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +191,6 @@
       "RelativeMoniker": "D:0:0:{D753E7FC-E75A-41BD-A2EA-33A3EFF700B1}|BlazorProject.Application\\BlazorProject.Application.csproj|solutionrelative:blazorproject.application\\queries\\getusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D753E7FC-E75A-41BD-A2EA-33A3EFF700B1}|BlazorProject.Application\\BlazorProject.Application.csproj|d:\\practicaa\\blazorproject\\blazorproject.application\\handlers\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D753E7FC-E75A-41BD-A2EA-33A3EFF700B1}|BlazorProject.Application\\BlazorProject.Application.csproj|solutionrelative:blazorproject.application\\handlers\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D753E7FC-E75A-41BD-A2EA-33A3EFF700B1}|BlazorProject.Application\\BlazorProject.Application.csproj|d:\\practicaa\\blazorproject\\blazorproject.application\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D753E7FC-E75A-41BD-A2EA-33A3EFF700B1}|BlazorProject.Application\\BlazorProject.Application.csproj|solutionrelative:blazorproject.application\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,16 +211,8 @@
       "RelativeMoniker": "D:0:0:{D753E7FC-E75A-41BD-A2EA-33A3EFF700B1}|BlazorProject.Application\\BlazorProject.Application.csproj|solutionrelative:blazorproject.application\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24FEB8E0-2ED7-40CF-81BC-D333657D1113}|BlazorProject.Domain\\BlazorProject.Domain.csproj|d:\\practicaa\\blazorproject\\blazorproject.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24FEB8E0-2ED7-40CF-81BC-D333657D1113}|BlazorProject.Domain\\BlazorProject.Domain.csproj|solutionrelative:blazorproject.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|d:\\practicaa\\blazorproject\\blazorproject\\blazorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{15DD07E7-2F9E-4FC9-8574-E1C4F9DDDBA5}|BlazorProject\\BlazorProject\\BlazorProject.csproj|solutionrelative:blazorproject\\blazorproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|d:\\practicaa\\blazorproject\\blazorproject.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|solutionrelative:blazorproject.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\practicaa\\blazorproject\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -85,6 +225,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|d:\\practicaa\\blazorproject\\blazorproject.infrastructure\\migrations\\20250907205840_usermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|solutionrelative:blazorproject.infrastructure\\migrations\\20250907205840_usermigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|d:\\practicaa\\blazorproject\\blazorproject.infrastructure\\migrations\\20250909140701_addedidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43E1BBFE-F893-45EB-B954-76E2BA883BE4}|BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj|solutionrelative:blazorproject.infrastructure\\migrations\\20250909140701_addedidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,206 +238,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Users.razor",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Users.razor",
-              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject.Client\\Pages\\Users.razor",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Users.razor",
-              "RelativeToolTip": "BlazorProject\\BlazorProject.Client\\Pages\\Users.razor",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAuwEoAAAArAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ResendEmailConfirmation.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-08T15:14:24.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject.Client\\Program.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Program.cs",
-              "RelativeToolTip": "BlazorProject\\BlazorProject.Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:36:48.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Program.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Program.cs",
-              "RelativeToolTip": "BlazorProject\\BlazorProject\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:16:52.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject.Client\\Pages\\Counter.razor",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Counter.razor",
-              "RelativeToolTip": "BlazorProject\\BlazorProject.Client\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-08T11:54:16.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateUserCommandHandler.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\UpdateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Application\\Handlers\\UpdateUserCommandHandler.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\UpdateUserCommandHandler.cs",
-              "RelativeToolTip": "BlazorProject.Application\\Handlers\\UpdateUserCommandHandler.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T10:06:43.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T14:03:23.361Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "BlazorProject\\BlazorProject\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T09:12:51.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Shared\\DTOs\\UserDto.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Shared\\DTOs\\UserDto.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Shared\\DTOs\\UserDto.cs",
-              "RelativeToolTip": "BlazorProject.Shared\\DTOs\\UserDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T11:24:54.141Z",
-              "EditorCaption": ""
+              "Title": "Register.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Register.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Register.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T10:14:21.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-08T15:25:05.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DeleteUserCommand.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\DeleteUserCommand.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Application\\Commands\\DeleteUserCommand.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\DeleteUserCommand.cs",
-              "RelativeToolTip": "BlazorProject.Application\\Commands\\DeleteUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T10:32:58.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T10:17:44.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetUsersQuery.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Queries\\GetUsersQuery.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Application\\Queries\\GetUsersQuery.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Queries\\GetUsersQuery.cs",
-              "RelativeToolTip": "BlazorProject.Application\\Queries\\GetUsersQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "BlazorProject.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T10:54:48.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T20:18:14.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetUsersQueryHandler.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\GetUsersQueryHandler.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Application\\Handlers\\GetUsersQueryHandler.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\GetUsersQueryHandler.cs",
-              "RelativeToolTip": "BlazorProject.Application\\Handlers\\GetUsersQueryHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BlazorProject.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T10:55:56.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T13:44:43.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DeleteUserCommandHandler.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\DeleteUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Application\\Handlers\\DeleteUserCommandHandler.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\DeleteUserCommandHandler.cs",
-              "RelativeToolTip": "BlazorProject.Application\\Handlers\\DeleteUserCommandHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T10:42:49.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateUserCommandHandler.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\CreateUserCommandHandler.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Application\\Handlers\\CreateUserCommandHandler.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\CreateUserCommandHandler.cs",
-              "RelativeToolTip": "BlazorProject.Application\\Handlers\\CreateUserCommandHandler.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T09:26:08.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UpdateUserCommand.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\UpdateUserCommand.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Application\\Commands\\UpdateUserCommand.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\UpdateUserCommand.cs",
-              "RelativeToolTip": "BlazorProject.Application\\Commands\\UpdateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T10:05:17.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Application\\Commands\\CreateUserCommand.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\CreateUserCommand.cs",
-              "RelativeToolTip": "BlazorProject.Application\\Commands\\CreateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T09:17:38.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "BlazorProject.Domain\\Entities\\User.cs",
@@ -301,12 +310,576 @@
               "RelativeToolTip": "BlazorProject.Domain\\Entities\\User.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:43:52.799Z",
+              "WhenOpened": "2025-09-07T20:43:52.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Users.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject.Client\\Pages\\Users.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Users.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject.Client\\Pages\\Users.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T15:14:24.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPassword.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ResetPassword.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ResetPassword.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ResetPassword.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ResetPassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T14:03:33.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExternalLoginPicker.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T14:03:42.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageNavMenu.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T14:03:53.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250909140701_AddedIdentityUser.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\Migrations\\20250909140701_AddedIdentityUser.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Infrastructure\\Migrations\\20250909140701_AddedIdentityUser.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\Migrations\\20250909140701_AddedIdentityUser.cs",
+              "RelativeToolTip": "BlazorProject.Infrastructure\\Migrations\\20250909140701_AddedIdentityUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T14:07:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterConfirmation.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T14:03:14.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TwoFactorAuthentication.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T14:02:50.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SetPassword.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T14:02:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetAuthenticator.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:59:31.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:59:20.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenerateRecoveryCodes.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:57:47.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExternalLogins.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:57:38.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EnableAuthenticator.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:57:28.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Email.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:57:19.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Disable2fa.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:57:11.181Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "DeletePersonalData.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:57:01.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePassword.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:56:53.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginWithRecoveryCode.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:56:03.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginWith2fa.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:55:54.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Login.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:54:57.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ForgotPassword.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:54:24.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExternalLogin.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:54:14.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConfirmEmailChange.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T13:54:02.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IdentityNoOpEmailSender.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\IdentityNoOpEmailSender.cs",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\IdentityNoOpEmailSender.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\IdentityNoOpEmailSender.cs",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\IdentityNoOpEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:54:00.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IdentityUserAccessor.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\IdentityUserAccessor.cs",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\IdentityUserAccessor.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\IdentityUserAccessor.cs",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\IdentityUserAccessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:13:53.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Program.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Program.cs",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:16:52.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ConfirmEmail.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T10:39:06.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:52:01.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "BlazorProject.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:40:20.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BlazorProject.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj",
+              "RelativeToolTip": "BlazorProject.Infrastructure\\BlazorProject.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T13:33:27.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:04:29.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetUsersQueryHandler.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\GetUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Application\\Handlers\\GetUsersQueryHandler.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\GetUsersQueryHandler.cs",
+              "RelativeToolTip": "BlazorProject.Application\\Handlers\\GetUsersQueryHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:55:56.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AccessDenied.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\AccessDenied.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\AccessDenied.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Account\\Pages\\AccessDenied.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Account\\Pages\\AccessDenied.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T10:39:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:12:36.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject.Client\\Pages\\Auth.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Auth.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject.Client\\Pages\\Auth.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T09:49:58.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject.Client\\Program.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Program.cs",
+              "RelativeToolTip": "BlazorProject\\BlazorProject.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:36:48.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject.Client\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:54:16.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Application\\Handlers\\UpdateUserCommandHandler.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "BlazorProject.Application\\Handlers\\UpdateUserCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:06:43.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:12:51.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Shared\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Shared\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Shared\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "BlazorProject.Shared\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:24:54.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorProject\\BlazorProject\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T15:25:05.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Application\\Commands\\DeleteUserCommand.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\DeleteUserCommand.cs",
+              "RelativeToolTip": "BlazorProject.Application\\Commands\\DeleteUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:32:58.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GetUsersQuery.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Queries\\GetUsersQuery.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Application\\Queries\\GetUsersQuery.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Queries\\GetUsersQuery.cs",
+              "RelativeToolTip": "BlazorProject.Application\\Queries\\GetUsersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:54:48.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Application\\Handlers\\DeleteUserCommandHandler.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "BlazorProject.Application\\Handlers\\DeleteUserCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:42:49.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Application\\Handlers\\CreateUserCommandHandler.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "BlazorProject.Application\\Handlers\\CreateUserCommandHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:26:08.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Application\\Commands\\UpdateUserCommand.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\UpdateUserCommand.cs",
+              "RelativeToolTip": "BlazorProject.Application\\Commands\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:05:17.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "BlazorProject.Application\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Application\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "BlazorProject.Application\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:17:38.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
               "Title": "20250907205840_UserMigration.cs",
               "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\Migrations\\20250907205840_UserMigration.cs",
               "RelativeDocumentMoniker": "BlazorProject.Infrastructure\\Migrations\\20250907205840_UserMigration.cs",
@@ -314,12 +887,11 @@
               "RelativeToolTip": "BlazorProject.Infrastructure\\Migrations\\20250907205840_UserMigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:58:41.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T20:58:41.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 53,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -327,38 +899,23 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-09-07T20:28:42.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T20:28:42.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 54,
               "Title": "BlazorProject.csproj",
               "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\BlazorProject.csproj",
               "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\BlazorProject.csproj",
               "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\BlazorProject.csproj",
               "RelativeToolTip": "BlazorProject\\BlazorProject\\BlazorProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-07T20:27:59.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T20:27:59.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BlazorProject.Infrastructure\\AppDbContext.cs",
-              "ToolTip": "D:\\Practicaa\\BlazorProject\\BlazorProject.Infrastructure\\AppDbContext.cs",
-              "RelativeToolTip": "BlazorProject.Infrastructure\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T20:18:14.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 52,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Practicaa\\BlazorProject\\BlazorProject\\BlazorProject\\appsettings.json",
               "RelativeDocumentMoniker": "BlazorProject\\BlazorProject\\appsettings.json",
@@ -366,8 +923,7 @@
               "RelativeToolTip": "BlazorProject\\BlazorProject\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-07T20:16:20.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T20:16:20.284Z"
             }
           ]
         }

@@ -1,4 +1,5 @@
 using BlazorProject.Data;
+using BlazorProject.Domain.Entities;
 using Microsoft.AspNetCore.Identity;
 
 namespace BlazorProject.Components.Account

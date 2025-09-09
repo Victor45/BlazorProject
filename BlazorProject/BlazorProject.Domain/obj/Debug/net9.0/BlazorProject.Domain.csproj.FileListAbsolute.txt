@@ -10,3 +10,4 @@ D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\refint\BlazorPr
 D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.pdb
 D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\ref\BlazorProject.Domain.dll
 D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.csproj.AssemblyReference.cache
+D:\Practicaa\BlazorProject\BlazorProject.Domain\obj\Debug\net9.0\BlazorProject.Domain.sourcelink.json
