@@ -83,3 +83,7 @@ D:\Practicaa\BlazorProject\bin\Debug\Microsoft.Extensions.Configuration.Binder.d
 D:\Practicaa\BlazorProject\bin\Debug\BlazorProject.Application.pdb
 D:\Practicaa\BlazorProject\bin\Debug\BlazorProject.Shared.pdb
 D:\Practicaa\BlazorProject\bin\Debug\System.Text.Json.dll
+D:\Practicaa\BlazorProject\bin\Debug\Microsoft.AspNetCore.Identity.UI.dll
+D:\Practicaa\BlazorProject\bin\Debug\SendGrid.dll
+D:\Practicaa\BlazorProject\bin\Debug\Newtonsoft.Json.dll
+D:\Practicaa\BlazorProject\bin\Debug\StarkbankEcdsa.dll

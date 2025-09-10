@@ -5,7 +5,9 @@ using BlazorProject.Components.Account;
 using BlazorProject.Data;
 using BlazorProject.Domain.Entities;
 using BlazorProject.Infrastructure;
+using BlazorProject.Application.Services;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Net.Http;
@@ -20,6 +22,13 @@ builder.Services.AddRazorComponents()
 builder.Services.AddCascadingAuthenticationState();
 builder.Services.AddScoped<IdentityUserAccessor>();
 builder.Services.AddScoped<IdentityRedirectManager>();
+
+builder.Services.AddTransient<IEmailSender, EmailSender>();
+builder.Services.Configure<AuthMessageSenderOptions>(options =>
+{
+     options.SendGridKey = builder.Configuration["SendGridKey"];
+});
+builder.Services.AddTransient<IEmailSender<ApplicationUser>, IdentityNoOpEmailSender>();
 
 builder.Services.AddControllers();
 

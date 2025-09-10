@@ -51,3 +51,9 @@ D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\s
 D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\staticwebassets.build.json
 D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\staticwebassets.build.json
 D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\staticwebassets.build.json
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\staticwebassets.build.json
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\staticwebassets.build.json
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\staticwebassets.build.json
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\staticwebassets.build.json
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\staticwebassets.build.json
+D:\Practicaa\BlazorProject\BlazorProject\BlazorProject.Client\obj\Debug\net9.0\staticwebassets.build.json
